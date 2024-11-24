@@ -80,7 +80,7 @@ _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on
 
 </p>
  
-- <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/boniphace478/MRHACKER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://files.catbox.moe/zjc6j5.jpg'/></a>
 star✨ my repo if you like this bot🤖
@@ -99,7 +99,7 @@ star✨ my repo if you like this bot🤖
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badge/GET SESSION ID2-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### 3.THIRD STEP 
 1. If You Don't Have An Account On Heroku**
@@ -131,7 +131,7 @@ star✨ my repo if you like this bot🤖
 
 </p>
 
-- <a href="https://yesser-scanner-8309ae116f64.herokuapp.com/"><img title="SERVER 01" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 01-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://yesser-scanner-8309ae116f64.herokuapp.com/"><img title="SERVER 01" src="https://img.shields.io/badge/GET SESSION ID-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -157,21 +157,21 @@ star✨ my repo if you like this bot🤖
 [![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **OWNER**
-<p align="centre">
-  <a href="https://wa.me/message/HVPSEJDVDNAEG1">
+<p align="Centre">
+  <a href="https://wa.me/message/7HDGDV3EKVV7L1">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 
 **𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
+  <a href="https://whatsapp.com/channel/0029Vak2PevK0IBh2pKJPp2K">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    ###
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/message/HVPSEJDVDNAEG1" target="_blank">
+<a href="https://wa.me/message/7HDGDV3EKVV7L1" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 

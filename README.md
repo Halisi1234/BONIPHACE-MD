@@ -2,7 +2,11 @@
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝙃𝙄+𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙏𝙄𝙈𝙉𝘼𝙎𝘼+𝙈𝘿+" alt="Typing SVG" /></a>
+ </p>
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
